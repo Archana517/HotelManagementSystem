@@ -5,4 +5,5 @@ https://github.com/Archana517/HotelManagementSystem/blob/main/HotelWeb/JJ3.png
 https://github.com/Archana517/HotelManagementSystem/blob/main/HotelWeb/jj4.png
 https://github.com/Archana517/HotelManagementSystem/blob/main/HotelWeb/jj5.png
 https://github.com/Archana517/HotelManagementSystem/blob/main/HotelWeb/jj8.png
+https://github.com/Archana517/HotelManagementSystem/blob/main/HotelWeb/jj9.png
 
