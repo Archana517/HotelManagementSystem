@@ -12,3 +12,4 @@ https://github.com/Archana517/HotelManagementSystem/blob/main/Screenshot%202026-
 https://github.com/Archana517/HotelManagementSystem/commit/011805fc85ff034655ec8c2c20cbd7ede32efaf9
 https://github.com/Archana517/HotelManagementSystem/commit/faf91a028cb097975794050bac8dc8b18561ce77
 https://github.com/Archana517/HotelManagementSystem/commit/20224b933f7994d02f93c13c174851e08785fe2b
+https://github.com/Archana517/HotelManagementSystem/commit/95c02b87eeafd8477ddbc78476cdaa91dbd1c16a
